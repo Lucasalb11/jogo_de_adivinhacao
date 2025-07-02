@@ -1,0 +1,2 @@
+std::ops::RangeInclusive<{integer}>
+std::ops::RangeInclusive<{integer}>: SampleRange
